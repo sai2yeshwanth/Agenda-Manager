@@ -1,7 +1,7 @@
 # 🚀 Agenda Manager (Full Stack)
 
 A full-stack Agenda Manager application to manage tasks, schedules, and events efficiently.  
-Built with Next.js, Node.js, TypeScript, Prisma, and PostgreSQL
+Built with Next.js, Node.js, TypeScript, Prisma, and PostgreSQL.
 
 ---
 
